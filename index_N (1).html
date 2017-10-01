@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Search Engine</title>
+  <link rel="shortcut icon" href="logo.ico" type="image/logo.ico"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <!-- Optional Bootstrap theme -->
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+   <!--  <link rel="stylesheet" type="text/css" href="iitg/ckeditor.css">
+    <link rel="stylesheet" type="text/css" href="iitg/defaults.css">
+    <link rel="stylesheet" type="text/css" href="iitg/node.css">
+    <link rel="stylesheet" type="text/css" href="iitg/style.css">
+    <link rel="stylesheet" type="text/css" href="iitg/system.css">
+    <link rel="stylesheet" type="text/css" href="iitg/system0menus.css"><link rel="stylesheet" type="text/css" href="iitg/system.css"><link rel="stylesheet" type="text/css" href="iitg/user.css"> -->
+
+<style>
+    
+    #div {
+       /* margin-left: 400px;
+        margin-top: 100px;*/
+    }
+
+    #form {
+        margin-left: 220px;
+        margin-top: 200px;
+        
+    }
+
+    body {
+        background: url('bkg.jpg') no-repeat center fixed; 
+        background-size: cover;
+        
+    }
+
+    label {
+        font-family:Georgia ,"Book Antiqua" ,"Times New Roman" ,Arial;
+        font-size: 200%;
+        color: #ffaa00;
+    }
+
+
+a:link    {
+  color:#0066ff; background-color:transparent; text-decoration:none
+}
+
+a:visited {
+  color:#1a1aff; background-color:transparent; text-decoration:none
+}
+a:hover   {
+  color:#ff0000; background-color:transparent; text-decoration:underline
+}
+a:active  {
+  color:#cc00cc; background-color:transparent; text-decoration:underline
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+<!-- <div>
+  <img src="images/iitg_logo.jpg">
+
+</div> -->
+<div class="span2" style="position: fixed; position:absolute;
+    top:100px;
+    right: 30px;">
+        <div class="footer-list" >
+          <h3 align="center"><strong>Quick Links</strong></h3>
+          <ul style="font-size: 20px;">
+            <a href="http://intranet.iitg.ernet.in/">
+              <li>Intranet</li>
+            </a>
+            <a href="https://webmail.iitg.ernet.in/">
+              <li>Webmail</li>
+            </a>
+            <a href="http://www.iitg.ernet.in/acad/acadCal/academic_calander.htm">
+              <li>Acad Calendar</li>
+            </a>
+            <a href="http://www.iitg.ac.in/aa/pages/campusmap/index.php?hq">
+              <li>Campus Map</li>
+            </a>
+            <a href="#">
+              <li>About Us</li>
+            </a>
+          </ul>
+        </div>
+      </div>
+
+
+<div class="span2" style="position: fixed; position:absolute;
+    top:300px;
+    right: 30px;">
+        <div class="footer-list" >
+          <h3 align="right"><strong>IITG on facebook</strong></h3>
+          <ul style="font-size: 20px;">
+            <a href="https://www.facebook.com/groups/iitg1213/">
+              <li>News?</br>Current Campus Junta</li>
+            </a>
+            <a href="https://www.facebook.com/groups/uMadBruh/">
+              <li>Jokes?</br>Current Trollers Junta</li>
+            </a>
+          </ul>
+        </div>
+      </div>
+
+<div id="design" style="position: absolute; top: 50px; left: 290px;">
+  <img src="images/logo_big.jpg" alt="logo">
+</div>
+
+<div class="container" >
+  <form role="form" id="form" action="search_output1.php" method="POST">
+    <div class="row">
+      <label for="text"></label>
+      <div class="col-sm-6">
+      <input type="text" class="form-control input-lg" style="width:400px;" name="input" placeholder="Enter query ..." required autofocus>
+      </div>
+      
+<div class="col-sm-2">
+      <select class="form-control" id="sel1" name="operator" style="margin-bottom: 3px;">Operator
+        <option>And</option>
+        <option>Or</option>
+        <option>Phrase</option>
+        <option>Fuzzy</option>
+      </select>
+</div>
+
+<div class="col-sm-2">
+      <select class="form-control" id="sel1" name="option" style="margin-bottom: 1px;">Option
+        <option>everywhere</option>
+        <option>pdf</option>
+        <option>doc</option>
+        <option>zip/exe</option>
+        <option>jpg</option>
+        <option>form</option>
+      </select>
+</div>
+
+    </div>
+    <button type="submit" class="btn btn-info" style="margin-top: 4px;">
+    <span class="glyphicon glyphicon-search"></span> Search</button>
+  </form>
+</div>
+
+<div class="container" style="position: fixed; position: absolute; bottom: 0px; width: 100%;background-color: #D3D3D3;">
+    <div class="row">
+      <div class="copyright-content">
+        <div class="span4">
+          <p align="center">Search Engine <strong>i-search</strong> Limited &copy; 2016 All rights reserved.</p>
+        </div>
+          <div class="span4 offset4">
+          <div class="copyright-list">
+            <p align="center">Developed by : 
+              <a href="https://www.facebook.com/rulesrk007" style="text-decoration: none;">
+                Rahul Kant
+              </a>
+              <a href="https://www.facebook.com/profile.php?id=100007814058253" style="text-decoration: none;">
+                | Nilesh Vaishnav
+              </a>
+              <a href="https://www.facebook.com/rahulraj.gupta.52" style="text-decoration: none;">
+                | Rahul Raj Gupta
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

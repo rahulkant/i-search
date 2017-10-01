@@ -1,0 +1,5 @@
+/*!CK:2641365150!*//*1458841992,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["mizf6"]); }
+
+__d('ChatCloseButton.react',['fbt','Link.react','ReactComponentWithPureRenderMixin','React','TrackingNodes','joinClasses'],function a(b,c,d,e,f,g,h){'use strict';if(c.__markCompiled)c.__markCompiled();var i=c('React').PropTypes,j=c('React').createClass({displayName:'ChatCloseButton',mixins:[c('ReactComponentWithPureRenderMixin')],propTypes:{onClick:i.func,onKeyUp:i.func,onMouseDown:i.func,active:i.bool},getDefaultProps:function(){return {active:false};},render:function(){var k=c('TrackingNodes').getTrackingInfo(c('TrackingNodes').types.CLOSE_BUTTON),l=h._("Press Esc to close"),m=h._("Close tab");return (c('React').createElement(c('Link.react'),{'aria-label':this.props.active?l:m,className:c('joinClasses')(this.props.className,'close','button'),'data-ft':k,'data-hover':'tooltip','data-tooltip-content':this.props.active?l:m,'data-tooltip-position':'above',onClick:this.props.onClick,onKeyUp:this.props.onKeyUp,onMouseDown:this.props.onMouseDown}));}});f.exports=j;},null);

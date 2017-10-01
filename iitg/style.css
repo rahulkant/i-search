@@ -1,0 +1,287 @@
+@import "style-base.css";
+
+body {
+  color: #292929;
+  color: #000000;
+  background: #e4e4e4 url(images/bg1.png) 0 0 repeat-x;
+  background: #759CB9;
+  background: #D5D1CF;
+}
+
+a:link,
+a:visited,
+a:hover,
+.title, .title a,
+.node .taxonomy,
+#aggregator .news-item .categories, #aggregator .source, #aggregator .age,
+#forum td .name,
+div.admin-panel .description {
+	color: #104a91 !important;
+}
+
+#section1 {
+	color: #f0f0f0;
+	background: #277bc0 url(images/topregion-bg.png) 0 0 repeat-x;
+}
+
+#section1 a,
+#section1 a:link,
+#section1 a:visited {
+	color: #ffcd06 !important;
+}
+
+#section1 h2, #section1 h2 a {
+	color: #131e23 !important;
+}
+
+#middlecontainer {
+	background: #EAEFF5 url(images/all/body-bg1.png) 0 0 repeat-x;
+	background: #ffffff;
+}
+
+#middlecontainer h1.title {
+	color: #104a91 !important;
+}
+
+#middlecontainer h2.title  {
+	color: #104a91 !important;
+}
+
+.node h2.title a {
+	color: #104a91 !important;
+}
+
+#section2 {
+	color: #fff;
+	background: #00335b url(images/bottomregion-bg.png) 0 0 repeat-x;
+}
+
+#section2 a,
+#section2 a:link,
+#section2 a:visited {
+	color: #ffcd06 !important;
+	color: #ffffff !important;
+}
+
+#section2 h2, #section2 h2 a {
+	color: #131e23 !important;
+	color: #E37D32 !important;
+}
+
+#section1 td.section {
+	background: transparent url(images/topline1.png) 0 0 no-repeat;
+}
+
+#section2 td.section {
+	background: transparent url(images/bottomline.png) 0 1px no-repeat;
+}
+
+#masthead {
+	/*background: #bdbdbd url(images/mast-bg1.png) 0 0 repeat-x;*/
+	background: #ffffff url(images/mast-bg1.png) 0 0 repeat-x;
+}
+
+#header .header-right {
+	background: transparent url(images/mast-r1.png) 100% 0 no-repeat;
+}
+
+#header .header-left {
+	background: transparent url(images/mast-l1.png) 0 0 no-repeat;
+	padding: 1px 0 14px 0;
+}
+
+#postnav {
+	border-bottom: 1px solid #58a8d1;
+}
+
+#breadcrumb, #breadcrumb a {
+	color: #353535 !important;
+	background-color: #bdbdbd;
+}
+
+#breadcrumb .breadcrumb {
+	padding: 0;
+}
+
+#bar {
+	background: transparent url(images/bar1.png) 0 0 repeat-x;
+	/*padding: 4px 0 3px;*/
+}
+
+#bar2 {
+	background: transparent url(images/bar21.png) 0 0 repeat-x;
+	padding: 1px;
+}
+
+#footer-wrapper {
+	background: #000911 url(images/footer-bg1.png) 0 0 repeat-x;
+}
+
+#footer-wrapper .footer-right {
+	background: transparent url(images/footer-r1.png) 100% 0 no-repeat;
+}
+
+#footer-wrapper .footer-left {
+	height: 15px;
+	overflow: hidden;
+	background: transparent url(images/footer-l1.png) 0 0 no-repeat;
+}
+
+#footer, #footer a {
+	color: #adadad !important;
+}
+
+#shadow {
+	background: transparent url(images/shadow-bg1.png) 0 0 repeat-x;
+	margin-top: 2px;
+}
+#shadow .shadow-right {
+	background: transparent url(images/shadow-r1.png) 100% 0 no-repeat;
+}
+#shadow .shadow-left {
+	background: transparent url(images/shadow-l1.png) 0 0 no-repeat;
+	/*height: 52px;*/
+}
+
+/* Menu styles */
+
+li.expanded {
+  list-style-image: url(images/all/menu-expanded1.png);
+}
+li.collapsed {
+  list-style-image: url(images/all/menu-collapsed1.png);
+}
+
+#navigation {
+	background: #292929 url(images/menu-bg1.png) repeat-x;
+	background: #133D67 ;
+}
+
+/* uncomment this to have the menu items on the right
+.navcont { 
+	float: right;
+}
+*/
+#primary a, #suckerfishmenu a {
+	color: #fff !important;
+	background: transparent url(images/menu-div.png) 100% 0 repeat-y;
+}
+
+#primary a:hover, #suckerfishmenu a:hover {
+	background: #336699;
+}
+
+#primary li a.active, #suckerfishmenu li a.active {
+	color: #0cf !important;
+	color: #fff !important;
+}
+
+#secondary a {
+	color: #fff !important;
+	background: url(images/menu-div.png) 100% 0 repeat-y;
+}
+
+#secondary a:hover {
+	background-color: #555;
+}
+
+#secondary a.active {
+	color: #0cf !important;
+}
+
+/* suckerfishmenu */
+
+#suckerfishmenu ul.menu li li a:link, #suckerfishmenu ul.menu li li a:visited {
+	color: #fff;
+	background: #133D67;
+	border-left: 1px solid #666;
+	border-top: 1px solid #666;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+#suckerfishmenu ul.menu li ul a:hover {
+	color: #fff;
+	background: #336699;
+}
+#suckerfishmenu ul.menu li li.expanded a,
+#suckerfishmenu ul.menu li li.expanded ul.menu li.expanded a {
+	background: #336699 url(images/arrow1.png) 100% 50% no-repeat;
+	background: #133D67;
+}
+#suckerfishmenu ul.menu li li.expanded a:hover,
+#suckerfishmenu ul.menu li li.expanded ul.menu li.expanded a:hover {
+	background: #336699 url(images/arrow2.png) 100% 50% no-repeat;
+	background: #336699 url(images/arrow-right.png) 100% 50% no-repeat;
+}
+#suckerfishmenu ul.menu li li.expanded ul.menu a,
+#suckerfishmenu ul.menu li li.expanded ul.menu li.expanded ul.menu a {
+	background: #133D67;
+}
+#suckerfishmenu ul.menu li li.expanded ul.menu a:hover,
+#suckerfishmenu ul.menu li li.expanded ul.menu li.expanded ul.menu a:hover {
+	background: #336699;
+}
+
+ul.links li {
+	border-left: 1px solid #d3d3d3;
+}
+
+.book-navigation .page-links {
+  border-top: 1px solid #d3d3d3;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+#footer ul.links li {
+	border-left: 1px solid #666;
+}
+
+
+/* main style overiding */
+
+#site-name a, #site-name a:hover {
+	/*color: #fff !important;*/
+	color: #666666 !important;
+        /*font-style: italic;*/
+}
+
+#site-slogan {
+  color: #000;
+  color: #3D541E;
+  color: #E37D32;
+  /*font-style: italic;*/
+}
+
+#mission {
+	color: #333;
+	border: solid 1px #d3d3d3;
+}
+
+#search .form-text, #search .form-submit {
+	border: 1px solid #369;
+}
+
+.submitted, .links {
+	color: #8e6126;
+}
+
+.comment {
+	border: 1px solid #d3d3d3;
+}
+
+.image-thumbnail, .image-preview {
+	border: none;
+}
+
+ul.galleries li {
+	background : #eee;
+	border : 1px #ccc solid;
+}
+
+
+
+
+
+
+
+
+

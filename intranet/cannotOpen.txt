@@ -1,0 +1,542 @@
+<urlopen error Tunnel connection failed: 403 Forbidden> https://automation.iitg.ernet.in:8085/sa/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/epay/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/epay/donation/donation.jsp
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/mtechmdes
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/phdrural
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/tnp
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://auto.iitg.ernet.in/tnp/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/automation/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/calias/index.jsp
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/electricity
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/fleave/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/idcard/index.jsp
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://automation.iitg.ernet.in/rnd/loginAdmin.jsp
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in/cb/index.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in/finstud/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in/moodle
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in/moodle/faq.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://intranet.iitg.ernet.in/moodle/login/index.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://kamrup.iitg.ernet.in/finduser/finger.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://kamrup.iitg.ernet.in/passwd
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://kamrup.iitg.ernet.in/passwd/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/eidsel/
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/nodues/index.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/summer/form1/index.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/~hab
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/~hab/host_const.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/~hab/host_const.php#tth_sEc17
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/~hab/host_gen_rules.php
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://shilloi.iitg.ernet.in/~hab/hostel.php?hostel=Married%20Scholars
+<urlopen error Tunnel connection failed: 407 Proxy Authentication Required> https://www.iitg.ernet.in/cseweb/summerinternship/home
+HTTP Error 400: Bad Request http://local.iitg.ernet.in/../../sites/default/files/workshop_CMB2010.pdf
+HTTP Error 400: Bad Request http://www.iitg.ernet.in/../%7Ehss/hss/images/student/HSS%20PhD%20File/Baban/Baban_CV_Deptt.pdf
+HTTP Error 400: Bad Request http://www.iitg.ernet.in/../gate
+HTTP Error 400: Bad Request http://www.iitg.ernet.in/site-map/Details+of+Examination
+HTTP Error 403: Forbidden http://local.iitg.ernet.in/lib/user/indiastatguides_new.html
+HTTP Error 403: Forbidden http://local.iitg.ernet.in/phy/admin
+HTTP Error 403: Forbidden http://local.iitg.ernet.in/phy/admin/settings
+HTTP Error 403: Forbidden http://shilloi.iitg.ernet.in/~acad/intranet/Reinstatement2014.PDF
+HTTP Error 403: Forbidden http://www.iitg.ernet.in/vdubey/rdmbsbdd2015/
+HTTP Error 404: Not Found http://iitg.ernet.in/aa/media/Indent for Guest House Accommodation (for alumni).pdf
+HTTP Error 404: Not Found http://iitg.ernet.in/aa/pages/cont_exchange_stud.html
+HTTP Error 404: Not Found http://iitg.ernet.in/aa/pages/media/mou/MOU_IITG_YU.pdf
+HTTP Error 404: Not Found http://iitg.ernet.in/aa/www.iitg.ernet.in
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/3column-portfolio.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/HMC.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/about.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/about.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/about14.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/activities.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/blog/index.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/blog3.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/blog4.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/blog5.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/boarderlist.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/boarders.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/card.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/contact.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/culture.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/docs/Rate of extra item.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/facilities.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/facilities.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/gallery.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/gallery.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/hmc.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/hmc.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/images/BList.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/images/GBM-23-08-15.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/images/HMC-27-09-15.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/images/HMC-31-07-15.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/index.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/index.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/kriti.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/library.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/links.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/manthan.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/mess.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/mess.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/mmc.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/news.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/notice.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/quick links.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/res/pdfs/mess/notices/2015-01-15%20Peas%20Masala%20in%20lunch.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/res/pdfs/mess/notices/2015-01-29 Suggestions-Mess.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/res/pdfs/mess/notices/Document1.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/service.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/spardha.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/sports.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/stat/src/index.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/hostels/status.php
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/lib/acsweb_new.html
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/lib/bvphy200412.pdf
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/lib/cplistdepartmentwise_new.html#cse
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/lib/cplistdepartmentwise_new.html#ha
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/accounts
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/akshara
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/ambulance
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/cable
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/cse
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/dean
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/deputy_dir
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/director
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/eng_civil
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/eo
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/fire_brig
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/gas
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/guest
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/hospital
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/hotel
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/kv
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/library
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/medical
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/nanotech
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/oep
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/peer
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/police
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/phonedir/pro
+HTTP Error 404: Not Found http://intranet.iitg.ernet.in/search.php?advanced=1
+HTTP Error 404: Not Found http://kolong.iitg.ernet.in/stud/phd.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/ABB-IITG scholarships note.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/AQM-TEQIP-2016/TEQIP 2015-2016.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Admissions.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Alumni.html?Phds
+HTTP Error 404: Not Found http://local.iitg.ernet.in/CENTDi/home.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/FERIAP_PG.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Faculty.html?CurFaculty
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Job_vacancies.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Publications.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/QIP_Solar_PK.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Rank.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Rutag-pal/index1.htm
+HTTP Error 404: Not Found http://local.iitg.ernet.in/ST.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Staff.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/TEQIP_SN&PC_2016-nagotu.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/Theses_Reports.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/aa/campusmap
+HTTP Error 404: Not Found http://local.iitg.ernet.in/about_me.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/acads/phd_struct.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/acc/sites/default/files/Interest Rates (F.Y. 13-14).pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/administration.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/biofuellab.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/chemeng/faculty.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/chemeng/node/2
+HTTP Error 404: Not Found http://local.iitg.ernet.in/chemeng/node/3
+HTTP Error 404: Not Found http://local.iitg.ernet.in/chemeng/resources/resource login.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/civil/Geotech%20Lab%20testing_form.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/class="MenuBarItemSubmenu"
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/CENTD/home.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/cnt_publication.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/files/Accomodation_Details.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/files/Shortlisted_Candidates_Dec2015.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/index.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/intranet/cnt_Facilities.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/cnt_new/intranet/cnt_project_ongoing.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/committees.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/completed.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/contact_us.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/courses_ug.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/design/Project.html?Phds
+HTTP Error 404: Not Found http://local.iitg.ernet.in/downloads/IIT-Guwahati_IAF.docx
+HTTP Error 404: Not Found http://local.iitg.ernet.in/environ_lab.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/faculty.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/forum.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/gallery.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/gallery_facility.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/history.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/journal_pubs.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/lab_cad.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/18.faq.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/1introduction.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/5.modes.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/8.pio.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/IITG_PURCHASE_MANUAL_2013.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/acts_statutes_iitamendmentact94.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/acts_statutes_iitguwahati.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/om-e-mail_rti_13oct2005.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/links/rti-act.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mech/files/misc/Workshop job order form.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mech/files/students/Btech 2014_Faculty Advisor.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mech/www.iitg.ac.in/bhaskark
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mech/www.iitg.ac.in/krishnab
+HTTP Error 404: Not Found http://local.iitg.ernet.in/msc.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mscpg.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mtech_cm.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/mtech_md.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/head.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=advisory.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=course-allo.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=dppc.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=fac_adv.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=inst-resp.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/members.php?id=welfare.txt
+HTTP Error 404: Not Found http://local.iitg.ernet.in/people/postdoc.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phd.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phdpg.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/akshara
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/cable
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/cet
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/civil
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/energy
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/eng_main
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/eng_maintenance
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/eo
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/gate
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/gian
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/gymkhana
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/hospital
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/hostel
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/hotel
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/jee
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/kv
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/library
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/married_hostel
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/maths
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/night_chm
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/police
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/registrar
+HTTP Error 404: Not Found http://local.iitg.ernet.in/phonedir/stud_affair
+HTTP Error 404: Not Found http://local.iitg.ernet.in/pmmmnmtt.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/processlab.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/project.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/qip.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/raer2016.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/raer_Home_2016.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/research/projects.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/rnd/#main-content
+HTTP Error 404: Not Found http://local.iitg.ernet.in/scw.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/sitemap.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/sites/default/files/adminoff/CE-P-HBK-3%20CE-P-SAD-2%20%2803.02.16%29.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/sp.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/srb.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/staff.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/summer_intern.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/syllabi.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/updatingPages/BoardsCouncilCommitteesandOtherBodies.htm
+HTTP Error 404: Not Found http://local.iitg.ernet.in/upload/HWWE_brochure7oct_etc.pdf
+HTTP Error 404: Not Found http://local.iitg.ernet.in/vision.php
+HTTP Error 404: Not Found http://local.iitg.ernet.in/water-res_lab.html
+HTTP Error 404: Not Found http://local.iitg.ernet.in/weblab.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/%7Eacad/intranet/stats/conSTD.htm
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/%7Efa/Letter to Universities for P.V. Sukhatme award 2016.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/%7Efa/forms/forms_pdf/Purchase proposal form.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/%7Efa/retiredfac.php
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/%7Eintracc/7311xdat.exe
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/cgi-bin/bd/studaff/display.cgi
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/Brochure_BT.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/Brochure_CL.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/Brochure_CSE.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/Brochure_CST.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/Brochure_EEE.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/IIT Guwahati Placement Brochure 2015-16.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/downloads/IIT-Guwahati_IAF.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/mission.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/news.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/reservation/
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/Branchchange11/branchchange.htm
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/Elective/HSS.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/Medal/Medals.htm
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/convo/convo8/btech(cl)0001.pdf>Chemical Engineering</a></p>
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/fee/fee structure.htm
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~acad/intranet/getconvoinfomtech-4-cse
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~admin/temp_intranet/forms/all_forms_doc/F18_tuition%20fees.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~biotech/Genesis/Home.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/ABB-IITG scholarships note.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/Form 2 - Assessment of MS project course.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/Publications in conf proceeding.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/Publications in journals.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/QIP_Fuel Cell_PG.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/eeflab.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~ceer/form 1 - Formation of MSPEC.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~cep/Resources/captcha_morphology_for_text_retrieval.zip
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~cep/btp.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~chem/phd_admission/Research Scholar leave application.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/<a href=
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/a s enterprise.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/abb india limited.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/architects atelier pvt ltd.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/ashok kakati.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/assam supply syndicate.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/badri rai & company.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/bimal mahajan.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/blue star ltd.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/bora electricals.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/brahmaputra electricals.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/bright engineers.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/dhruba jyoti das.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/dibakar das.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/ekistics team.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/engineering projects (india) ltd.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/green acres communication.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/hari mohan borah.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/hindustan engineering.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/jugo moni mahajan.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/laba kalita.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/labotek.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/manoj kumar das.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/mantu kumar pathak.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/milan kakati.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/mondeep gogoi.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/narayan deka.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/narayan seal.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/nitul sarma.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/om constructions.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/pranjal borkakoty.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/pranjalika das.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/r s cooling appliances.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/rajib jyoti sarmah.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/rajib sarmah.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/raychem rpg (p) ltd.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/san engineering.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/sanjeev borah.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/sankar dev enterprise.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/santosh hazarika.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/shree gautam construction company limited.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/sterling and wilson private limited.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/tribeni constructions ltd.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/voltas limited.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~enggsec/image/vendors profile/vortex engineering.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/AQM-TEQIP-2016/TEQIP 2015-2016.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/ENV-P-UB-10-ON-20-11.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Leave Application.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/2012.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/2013.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/2014.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/2015.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/CONFERENCES AND SEMINARS (2012).docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/CONFERENCES AND SEMINARS 2011.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Publication Etc/Publication 2009.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/Raer-Registration form.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/TEQIP Brochure_Dr. Ajay Kalamdhad.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/class="MenuBarItemSubmenu"
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/cv/CV_arnab.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/cv/Tanushree_details.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/cv/p.vimal.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/images/demo/Analytical Lab.JPG
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/images/demo/Computational Laboratory.gif
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/images/demo/Kjeldahl Nitrogen Analyser.JPG
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/images/demo/Sign Board of Centre.JPG
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/raer-how to reach.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/raer2016.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~env/raer_Home_2016.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/2016 Commonwealth scholarship.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/Banting PDF_Govt of Canada.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/FORMS/MTECH-MDES - JULY 2011.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/IIT 
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/IIT Scholarship 2011 Flyer.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/clearance/Steps to be followed by organizer_final.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/information for exchange partners.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/medical fitness form-foreign student.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/mou/MOU Polytech-IITG.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/mou/NIT Meghalaya.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~er/mou/Rwth-IITG SEP MoU.PDF
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~establishment/Forms/doc/DTA%20Requsition%20Slip_web.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~fa/FacOri2015/CC.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~fa/faculty handbook.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~facultyforum/images/minutes/GBM_minutes_15 Sept 2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~facultyforum/images/minutes/GBM_minutes_27 Nov 2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~facultyforum/images\FacFor-Subscription-Consent-Form.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~genesis/
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/RM%202016/rm2016.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/2phdphoto/HSS_TT_Jan-May_2016_final_1.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/Aisling_Fahey_PDF.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/Final_Poster_GRM_2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/HSS_Seminar_Series.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/HSS_TT_july_nov_22nd_July.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/ICPR_programme.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/Stephen_Stich_Seminar.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/Vijay_performance_poster.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/documents/Abu.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~hss/images/teachers_meet.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~lib/intraindex.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Form NO 2.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Form No 1.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/InstituteMO.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical Claim Form No 1.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical Leave Form.docx
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical Leave Form.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical Rules.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical certificate of Fitness to Return to Duty.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Medical certificate of Fitness to Return to Duty.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Photo Gallery Edited.html
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Reimbursement Form NO 2.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~medical/Reimbursement Form3.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes 27102015_2.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes-new/Minutes 14122015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes  24092015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes  29092015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 01_09_2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 06-10-2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 08_09_2015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 10-12-14.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 13-1-15.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 15092015.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/CENTD/files/Minutes/Minutes 27-1-15.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~nano/NWNTD/images/NWNTD-2016 Poster.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~phone/
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~placement/intra/downloads/Placement Stats Design.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~placement/intra/downloads/Placement Stats MA.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~regoff/pdf/approved_DP_ for uploading.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/Rules/81st BOG_SBF-Fund_Webpage.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Appl-2. Community Hall Booking Form.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Appl-3. Indent for Guest House Accommodation (for students for their Guests).doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Hostel-1. Hostel Shift Form-Old Hostel.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Hostel-2. Hostel Shift From-New Hostel.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Hostel-3. hostel stay from.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/SA1_Cours Adjustment.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Schp-02, McM Scholarship Form for NEW Students.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Schp-3. IWAB Scholarship.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Sports-1.Membership for Institute Swimming Pool.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/forms/New Forms/Sports-3. Special Swimming Pool Enrollment Form.doc
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/notices/Committee for Substance Abuse.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/notices/Notice 26_Temporary Stall at IIT Guwahati.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/notices/Notice 28.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/notices/Office Order_45_Committee for Cafeteria_16.09.2014.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/notices/notice 25.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/scholarships/List of Students for IMS 2011-12.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/scholarships/ONGC Gold Medal.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/scholarships/Recipient of Gandhi Smriti and Darshan Samiti Fellowship.pdf
+HTTP Error 404: Not Found http://shilloi.iitg.ernet.in/~sa/scholarships/Recipient of ONGC Gold Medal.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/Contact.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aa/campus_map/
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aa/campusmap/about.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aa/pages/cont_exchange_stud.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aa/pages/inco_fore_stu.html#outgoing-iitg-students.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aa/pages/pages/contact.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/aat
+HTTP Error 404: Not Found http://www.iitg.ernet.in/about-question-papers
+HTTP Error 404: Not Found http://www.iitg.ernet.in/abstracts.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/acad/admnJuly2011/DualDegree/AdmissionNotificationDualDegreeCSE.htm#finsupport
+HTTP Error 404: Not Found http://www.iitg.ernet.in/acad/scholarship.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/accomodation.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/anti_ragging
+HTTP Error 404: Not Found http://www.iitg.ernet.in/biotech_hub.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cc/
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/ABB-IITG scholarships note.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/Form 2 - Assessment of MS project course.docx
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/Job order form for External users.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/Publications in conf proceeding.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/Publications in journals.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/QIP_Fuel Cell_PG.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ceer/sschool.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/certificate-formats
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/admission brochures/qip_brochure_2015-16_PhD.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/annual report/annual_rpt2005_06.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/annual report/status_rpt_2008_09.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/annual report/status_rpt_2012_13.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/guidelines/curriculum development/CDCellAdvanceForm.rtf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/guidelines/curriculum development/cd_cell_expr_settlement.doc
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/guidelines/curriculum development/project_report_cover_page.doc
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/guidelines/m.tech and phd programmme/Format-for-extension.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/qip/guidelines/short term courses/short_course_proposal_format.docx
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cet/workshop.htm
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chem/tcs2012
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/BM.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/KM.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/faculty.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/iichegrc.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/node/2
+HTTP Error 404: Not Found http://www.iitg.ernet.in/chemeng/student%20chapter.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cif/<#php print check_url($front_page); ?>
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cif/internet/<#php print check_url($front_page); ?>
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cif/sites/default/files/Job%20Order%20for%20XRD%20for%20macromolecules.doc
+HTTP Error 404: Not Found http://www.iitg.ernet.in/contact.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/contact.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/coun_brochure
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cse/?p=643
+HTTP Error 404: Not Found http://www.iitg.ernet.in/cse/QIP/tads.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/design/upload/HWWE_brochure7oct_etc.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/dgoswami/www.iitg.ernet.in
+HTTP Error 404: Not Found http://www.iitg.ernet.in/display-of-ors
+HTTP Error 404: Not Found http://www.iitg.ernet.in/doc/list.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/docs/cet_service_form_s1.docx
+HTTP Error 404: Not Found http://www.iitg.ernet.in/ece/stc/2016/QIP_EEE_Photonics_2016.htm
+HTTP Error 404: Not Found http://www.iitg.ernet.in/elig_crit
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/adminexp.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/courses.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/phdthesis.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/publications.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/research.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/engfac/roypaily/public_html/teaching.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/env/AQM-TEQIP-2016/Important Dates.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/exam-cities
+HTTP Error 404: Not Found http://www.iitg.ernet.in/exam-schedule
+HTTP Error 404: Not Found http://www.iitg.ernet.in/greenenergy
+HTTP Error 404: Not Found http://www.iitg.ernet.in/grm/  http://www.iitg.ernet.in/grm/org.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/grm/  http://www.iitg.ernet.in/grm/reach.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/data/current_RS.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/data/past_RS.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/documents/Brochurejohn.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/documents/RegistrationFormJohn.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/index.php?option=com_content&view=article&id=71&Itemid=466
+HTTP Error 404: Not Found http://www.iitg.ernet.in/hss/index.php?option=com_content&view=article&id=76&Itemid=493
+HTTP Error 404: Not Found http://www.iitg.ernet.in/index
+HTTP Error 404: Not Found http://www.iitg.ernet.in/links/updating%20pages/7.1%20XXVIthFinanceCommittee.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/linkto.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/magma2013
+HTTP Error 404: Not Found http://www.iitg.ernet.in/mech/faclist.htm
+HTTP Error 404: Not Found http://www.iitg.ernet.in/mech/faculty/psr.htm
+HTTP Error 404: Not Found http://www.iitg.ernet.in/mech/files/misc/DPPC-Form ME-PhD-2.doc
+HTTP Error 404: Not Found http://www.iitg.ernet.in/media/Indent for Guest House Accommodation (for alumni).pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/NWNTD/images/NWNTD-2016 Poster.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/CENTD/home.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/index.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/intranet/cnt_Facilities.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/intranet/cnt_academic.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/intranet/cnt_faculty.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/cnt_new/intranet/cnt_project_ongoing.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/files/Call Letter.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/nano/files/Shortlisted Candidates.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/notice.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/organizing_committee.php
+HTTP Error 404: Not Found http://www.iitg.ernet.in/pages/about.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/pages/creditstructure.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/pages/inco_fore_stu.html#outgoing-iitg-students.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/pages/media/FS.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/pages/media/collaborations.pdf
+HTTP Error 404: Not Found http://www.iitg.ernet.in/participating-institutes
+HTTP Error 404: Not Found http://www.iitg.ernet.in/phy/faculty/pa.htm
+HTTP Error 404: Not Found http://www.iitg.ernet.in/project.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/raer-2016.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/raer2016.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/raer_Home_2016.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/rakhi_chaturvedi/google.com
+HTTP Error 404: Not Found http://www.iitg.ernet.in/rakhi_chaturvedi/news/
+HTTP Error 404: Not Found http://www.iitg.ernet.in/read_more
+HTTP Error 404: Not Found http://www.iitg.ernet.in/registration-fee
+HTTP Error 404: Not Found http://www.iitg.ernet.in/required-documents
+HTTP Error 404: Not Found http://www.iitg.ernet.in/reservation/
+HTTP Error 404: Not Found http://www.iitg.ernet.in/rti/links/updating pages/BudgetEstimates2012-13.PDF
+HTTP Error 404: Not Found http://www.iitg.ernet.in/sambit/IPR2014/index.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/sample-questions
+HTTP Error 404: Not Found http://www.iitg.ernet.in/staff.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/visitors.html
+HTTP Error 404: Not Found http://www.iitg.ernet.in/www.iitg.ernet.in
+HTTP Error 404: Not Found http://www.iitg.ernet.in/www.iitg.ernet.in/civil/
+HTTP Error 500: Internal Server Error http://bidya.iitg.ernet.in:8680/opac/browse/browse.html
+HTTP Error 502: Bad Gateway http://intranet.iitg.ernet.in/hostels/kameng
+HTTP Error 503: Service Unavailable http://lib.cse.iitg.ernet.in:8070/CseLibraryApp/student_login.jsp
+HTTP Error 503: Service Unavailable http://mech05.iitg.ernet.in/test1/index.php
+unknown url type: '' 
+unknown url type: '</td></tr><tr><td Colspan=2><p align=' 								</td></tr><tr><td Colspan=2><p align=
